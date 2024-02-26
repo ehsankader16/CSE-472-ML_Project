@@ -1,0 +1,7 @@
+pip install soundfile
+
+bash downloads-deps.sh
+
+pip install resampy
+
+pip install tf_slim

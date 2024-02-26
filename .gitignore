@@ -1,0 +1,9 @@
+amplitude_spectrogram/
+dataset/
+openmic/
+openmic-2018/
+power_spectrogram/
+*.tgz
+*.ckpt
+*.npz
+.git
