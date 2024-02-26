@@ -1,0 +1,265 @@
+Epoch [1/10], Loss: 0.7825
+Train accuracy: 0.4813
+Epoch [1/10], Loss: 0.3847
+Train accuracy: 0.8891
+Epoch [1/10], Loss: 0.3306
+Train accuracy: 0.9141
+Epoch [1/10], Loss: 0.3834
+Train accuracy: 0.9039
+Epoch [1/10], Loss: 0.4290
+Train accuracy: 0.8945
+Epoch [1/10], Loss: 0.3959
+Train accuracy: 0.8961
+Epoch [1/10], Loss: 0.4053
+Train accuracy: 0.8914
+Epoch [1/10], Loss: 0.4018
+Train accuracy: 0.8727
+Epoch [1/10], Loss: 0.3604
+Train accuracy: 0.8844
+Epoch [1/10], Loss: 0.3849
+Train accuracy: 0.8805
+Epoch [1/10], ended
+Loss: 0.006653901422396302
+Train accuracy: 0.8508
+Validation Loss: 0.3451
+Validation accuracy: 0.8950
+
+Epoch [2/10], Loss: 0.3189
+Train accuracy: 0.9000
+Epoch [2/10], Loss: 0.3303
+Train accuracy: 0.8992
+Epoch [2/10], Loss: 0.3117
+Train accuracy: 0.9133
+Epoch [2/10], Loss: 0.3132
+Train accuracy: 0.9008
+Epoch [2/10], Loss: 0.3122
+Train accuracy: 0.9000
+Epoch [2/10], Loss: 0.2948
+Train accuracy: 0.8969
+Epoch [2/10], Loss: 0.3161
+Train accuracy: 0.8922
+Epoch [2/10], Loss: 0.3510
+Train accuracy: 0.8789
+Epoch [2/10], Loss: 0.3010
+Train accuracy: 0.8859
+Epoch [2/10], Loss: 0.3278
+Train accuracy: 0.8797
+Epoch [2/10], ended
+Loss: 0.004964280501008033
+Train accuracy: 0.8947
+Validation Loss: 0.3156
+Validation accuracy: 0.9000
+
+Epoch [3/10], Loss: 0.2655
+Train accuracy: 0.9117
+Epoch [3/10], Loss: 0.2967
+Train accuracy: 0.8953
+Epoch [3/10], Loss: 0.2619
+Train accuracy: 0.9148
+Epoch [3/10], Loss: 0.2679
+Train accuracy: 0.9086
+Epoch [3/10], Loss: 0.2802
+Train accuracy: 0.9055
+Epoch [3/10], Loss: 0.2588
+Train accuracy: 0.9094
+Epoch [3/10], Loss: 0.2629
+Train accuracy: 0.8953
+Epoch [3/10], Loss: 0.2710
+Train accuracy: 0.8906
+Epoch [3/10], Loss: 0.2577
+Train accuracy: 0.8984
+Epoch [3/10], Loss: 0.2799
+Train accuracy: 0.8898
+Epoch [3/10], ended
+Loss: 0.004222412314265967
+Train accuracy: 0.9020
+Validation Loss: 0.3322
+Validation accuracy: 0.8953
+
+Epoch [4/10], Loss: 0.2304
+Train accuracy: 0.9180
+Epoch [4/10], Loss: 0.2543
+Train accuracy: 0.9016
+Epoch [4/10], Loss: 0.2251
+Train accuracy: 0.9164
+Epoch [4/10], Loss: 0.2109
+Train accuracy: 0.9133
+Epoch [4/10], Loss: 0.2294
+Train accuracy: 0.9156
+Epoch [4/10], Loss: 0.2148
+Train accuracy: 0.9203
+Epoch [4/10], Loss: 0.2064
+Train accuracy: 0.9211
+Epoch [4/10], Loss: 0.2387
+Train accuracy: 0.9070
+Epoch [4/10], Loss: 0.1980
+Train accuracy: 0.9195
+Epoch [4/10], Loss: 0.2312
+Train accuracy: 0.9047
+Epoch [4/10], ended
+Loss: 0.003498654323630035
+Train accuracy: 0.9137
+Validation Loss: 0.3278
+Validation accuracy: 0.8931
+
+Epoch [5/10], Loss: 0.1744
+Train accuracy: 0.9313
+Epoch [5/10], Loss: 0.1938
+Train accuracy: 0.9242
+Epoch [5/10], Loss: 0.1905
+Train accuracy: 0.9289
+Epoch [5/10], Loss: 0.1639
+Train accuracy: 0.9406
+Epoch [5/10], Loss: 0.1784
+Train accuracy: 0.9320
+Epoch [5/10], Loss: 0.1675
+Train accuracy: 0.9414
+Epoch [5/10], Loss: 0.1691
+Train accuracy: 0.9359
+Epoch [5/10], Loss: 0.1840
+Train accuracy: 0.9273
+Epoch [5/10], Loss: 0.1642
+Train accuracy: 0.9367
+Epoch [5/10], Loss: 0.1999
+Train accuracy: 0.9187
+Epoch [5/10], ended
+Loss: 0.0027902857400476933
+Train accuracy: 0.9317
+Validation Loss: 0.3683
+Validation accuracy: 0.8862
+
+Epoch [6/10], Loss: 0.1428
+Train accuracy: 0.9469
+Epoch [6/10], Loss: 0.1681
+Train accuracy: 0.9266
+Epoch [6/10], Loss: 0.1488
+Train accuracy: 0.9406
+Epoch [6/10], Loss: 0.1474
+Train accuracy: 0.9461
+Epoch [6/10], Loss: 0.1527
+Train accuracy: 0.9383
+Epoch [6/10], Loss: 0.1459
+Train accuracy: 0.9383
+Epoch [6/10], Loss: 0.1429
+Train accuracy: 0.9430
+Epoch [6/10], Loss: 0.1864
+Train accuracy: 0.9234
+Epoch [6/10], Loss: 0.1705
+Train accuracy: 0.9258
+Epoch [6/10], Loss: 0.1758
+Train accuracy: 0.9258
+Epoch [6/10], ended
+Loss: 0.002470963867381215
+Train accuracy: 0.9355
+Validation Loss: 0.3864
+Validation accuracy: 0.8834
+
+Epoch [7/10], Loss: 0.1299
+Train accuracy: 0.9563
+Epoch [7/10], Loss: 0.1487
+Train accuracy: 0.9422
+Epoch [7/10], Loss: 0.1334
+Train accuracy: 0.9508
+Epoch [7/10], Loss: 0.1277
+Train accuracy: 0.9469
+Epoch [7/10], Loss: 0.1419
+Train accuracy: 0.9477
+Epoch [7/10], Loss: 0.1280
+Train accuracy: 0.9461
+Epoch [7/10], Loss: 0.1223
+Train accuracy: 0.9484
+Epoch [7/10], Loss: 0.1434
+Train accuracy: 0.9367
+Epoch [7/10], Loss: 0.1363
+Train accuracy: 0.9445
+Epoch [7/10], Loss: 0.1672
+Train accuracy: 0.9273
+Epoch [7/10], ended
+Loss: 0.0021542469621635973
+Train accuracy: 0.9447
+Validation Loss: 0.3989
+Validation accuracy: 0.8766
+
+Epoch [8/10], Loss: 0.1084
+Train accuracy: 0.9633
+Epoch [8/10], Loss: 0.1329
+Train accuracy: 0.9461
+Epoch [8/10], Loss: 0.1231
+Train accuracy: 0.9555
+Epoch [8/10], Loss: 0.0982
+Train accuracy: 0.9641
+Epoch [8/10], Loss: 0.1146
+Train accuracy: 0.9570
+Epoch [8/10], Loss: 0.1054
+Train accuracy: 0.9547
+Epoch [8/10], Loss: 0.0989
+Train accuracy: 0.9633
+Epoch [8/10], Loss: 0.1306
+Train accuracy: 0.9523
+Epoch [8/10], Loss: 0.1216
+Train accuracy: 0.9516
+Epoch [8/10], Loss: 0.1225
+Train accuracy: 0.9516
+Epoch [8/10], ended
+Loss: 0.0018067555036395788
+Train accuracy: 0.9559
+Validation Loss: 0.4298
+Validation accuracy: 0.8806
+
+Epoch [9/10], Loss: 0.0920
+Train accuracy: 0.9688
+Epoch [9/10], Loss: 0.1002
+Train accuracy: 0.9656
+Epoch [9/10], Loss: 0.0917
+Train accuracy: 0.9656
+Epoch [9/10], Loss: 0.0892
+Train accuracy: 0.9742
+Epoch [9/10], Loss: 0.1014
+Train accuracy: 0.9609
+Epoch [9/10], Loss: 0.0790
+Train accuracy: 0.9688
+Epoch [9/10], Loss: 0.0881
+Train accuracy: 0.9703
+Epoch [9/10], Loss: 0.1304
+Train accuracy: 0.9469
+Epoch [9/10], Loss: 0.1055
+Train accuracy: 0.9656
+Epoch [9/10], Loss: 0.1047
+Train accuracy: 0.9578
+Epoch [9/10], ended
+Loss: 0.001534670393448323
+Train accuracy: 0.9645
+Validation Loss: 0.4337
+Validation accuracy: 0.8819
+
+Epoch [10/10], Loss: 0.0653
+Train accuracy: 0.9766
+Epoch [10/10], Loss: 0.0897
+Train accuracy: 0.9641
+Epoch [10/10], Loss: 0.0842
+Train accuracy: 0.9695
+Epoch [10/10], Loss: 0.0798
+Train accuracy: 0.9711
+Epoch [10/10], Loss: 0.0866
+Train accuracy: 0.9688
+Epoch [10/10], Loss: 0.0725
+Train accuracy: 0.9773
+Epoch [10/10], Loss: 0.0652
+Train accuracy: 0.9773
+Epoch [10/10], Loss: 0.0937
+Train accuracy: 0.9609
+Epoch [10/10], Loss: 0.0812
+Train accuracy: 0.9656
+Epoch [10/10], Loss: 0.0806
+Train accuracy: 0.9680
+Epoch [10/10], ended
+Loss: 0.0012478435994125903
+Train accuracy: 0.9699
+Validation Loss: 0.4592
+Validation accuracy: 0.8853
+
+epoch_losses = [0.006653901422396302, 0.004964280501008033, 0.004222412314265967, 0.003498654323630035, 0.0027902857400476933, 0.002470963867381215, 0.0021542469621635973, 0.0018067555036395788, 0.001534670393448323, 0.0012478435994125903]
+epoch_train_accuracies = [0.85078125, 0.8946875, 0.901953125, 0.91375, 0.93171875, 0.93546875, 0.9446875, 0.9559375, 0.964453125, 0.969921875]
+epoch_val_accuracies = [0.895, 0.9, 0.8953125, 0.893125, 0.88625, 0.8834375, 0.8765625, 0.880625, 0.881875, 0.8853125]
+test_accuracy = 0.8737
+
